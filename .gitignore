@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Database files
+*.db
+
+# JSON files
+*.json
+
+# Pickle files
+*.pkl
+
+# Log files
+*.log
+
+# Node modules (if applicable)
+node_modules/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# VSCode settings (optional)
+.vscode/
